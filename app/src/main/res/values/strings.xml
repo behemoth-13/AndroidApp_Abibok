@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Abibok</string>
+    <string name="title_activity_life">LifeActivity</string>
+    <string name="life_title_hint">Введите заголовок для момента жизни бездельника</string>
 </resources>
